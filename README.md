@@ -50,7 +50,7 @@ Welcome to my 2D Mini Golf Game! This is my first Unity project, and I’m excit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/2d-mini-golf-game.git
+   git clone https://github.com/wesberg05/2d-mini-golf-game.git
 
 2. Open the project in Unity.
 3. Build and run the game or play in the Unity editor.
